@@ -1,4 +1,4 @@
-**This fork is here, in case the original repositories is going down**
+**This fork is here, in case the original repositories is going down. So for now archiving it**
 
 # php-consistent-hashing
 Multi-probe consistent hashing, using php
